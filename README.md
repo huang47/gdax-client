@@ -1,3 +1,8 @@
+![Home Screen](https://raw.githubusercontent.com/huang47/gdax-client/master/doc/pic/1.jpg)
+![Sort by change per day](https://raw.githubusercontent.com/huang47/gdax-client/master/doc/pic/2.jpg)
+![Favorite Screen](https://raw.githubusercontent.com/huang47/gdax-client/master/doc/pic/3.jpg)
+![Settings Screen](https://raw.githubusercontent.com/huang47/gdax-client/master/doc/pic/4.jpg)
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
